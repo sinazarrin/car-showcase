@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 const Hero = () => {
   return (
-    <h1 className='bg-red-200'>
+    <h1 className=''>
         Hero 
     </h1>
   )
